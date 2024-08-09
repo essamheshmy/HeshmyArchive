@@ -1,6 +1,4 @@
-# HeshmyArchive
 
-# READM
 
 # A categorized tree of objects
 
@@ -62,6 +60,10 @@ Recursion3
 
 [Dynamic Stack](https://www.notion.so/Dynamic-Stack-403f0671e76c4f2caced068382dde67c?pvs=21)
 
+[
+
+`LinkedQueue`](https://www.notion.so/LinkedQueue-59aee965e97840dabc5fa253c5e5a3ec?pvs=21)
+
 ### Trees Data Structures
 
 يستكملان فيما بعد
@@ -104,7 +106,7 @@ Recursion3
 
 ### Sets
 
-[Sets](https://www.notion.so/Sets-fc465a14d38e412a8fa2827890f4fd56?pvs=21)
+[What is the Sets](https://www.notion.so/What-is-the-Sets-fc465a14d38e412a8fa2827890f4fd56?pvs=21)
 
 [
 
