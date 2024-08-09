@@ -50,9 +50,7 @@ Recursion3
 
 [Dynamic Stack](https://www.notion.so/Dynamic-Stack-403f0671e76c4f2caced068382dde67c?pvs=21)
 
-[
-
-`LinkedQueue`](https://www.notion.so/LinkedQueue-59aee965e97840dabc5fa253c5e5a3ec?pvs=21)
+[`LinkedQueue`](https://www.notion.so/LinkedQueue-59aee965e97840dabc5fa253c5e5a3ec?pvs=21)
 
 ### Trees Data Structures
 
