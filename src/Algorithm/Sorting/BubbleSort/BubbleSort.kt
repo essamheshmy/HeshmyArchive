@@ -20,7 +20,7 @@ fun bubbleSort(array: IntArray) {
             // Swap if the element found is greater
             // than the next element
             if (array[j] > array[j + 1]) {
-                // swap  
+                // swap
                 array[j] and array[j+1]
                 val temp = array[j]
                 array[j] = array[j + 1]
