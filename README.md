@@ -1,6 +1,6 @@
-# READM
+# HeshmyArchivREADM
 
-[notion file](https://www.notion.so/HeshmyArchive-82242c005d7a45aba2ec00ecdc28f3ae?pvs=21)
+[notion file](https://www.notion.so/HeshmyArchivREADM-5bfd2236b1ec421ba8a5276e0d81893f?pvs=21)
 
 
 ## HeshmyArchiv is a repository for keeping some technical explanations with some examples using Java or Kotlin. It is not a comprehensive explanation of these topics, but a quick reference for reference.These are some of the topics that have been added to: algorithms, data structures, how to use the most famous data structures.There are plans to expand in the future to explain some software development practices, such as OOP, SOLID principles,Design Patterns. And to make some additions to the topics explained
@@ -8,31 +8,34 @@
 
 ## A categorized tree of objects
 
-## **Algorithm**
-
-- Searching
-
-  [linearSearch](https://www.notion.so/linearSearch-797d404c95824bbd974678da1fe38316?pvs=21)
-
-  [Binary Search](https://www.notion.so/Binary-Search-2fe8ae23cb15475c8ef61df71461022e?pvs=21)
-
-  [InterpolationSearch`](https://www.notion.so/InterpolationSearch-5c1b40fffc5c479797c02067601ddcaf?pvs=21)
+## **[Algorithm](https://github.com/essamheshmy/HeshmyArchive/tree/main/src/Algorithm)**
+//https://github.com/essamheshmy/HeshmyArchive/tree/main/src/Algorithm/Sorting
 
 
-- Sorting
+- [Searching] (https://github.com/essamheshmy/HeshmyArchive/tree/main/src/Algorithm/Sorting)
 
-  [`bubbleSort`](https://www.notion.so/bubbleSort-a1455bf687674c7ca6bf3bb5424a0036?pvs=21)
+  [LinearSearch](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Searching/BinarySearch/LinearSearch.md)
 
-  [`mergeSort`](https://www.notion.so/mergeSort-b637756ad6824c6cab282c343c14ee67?pvs=21)
+  [Binary Search](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Searching/BinarySearch/BinarySearch.md)
 
-  [`quickSort`](https://www.notion.so/quickSort-42dec1183f43463eae92dce6e40e2c08?pvs=21)
+  [InterpolationSearch](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Searching/BinarySearch/InterpolationSearch.md)
 
 
-## **DataStructuresImplementing**
+- [Sorting] (https://github.com/essamheshmy/HeshmyArchive/tree/main/src/Algorithm/Sorting)
+
+  [BubbleSort](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Sorting/BubbleSort/BubbleSort.md)
+
+  [MergeSort](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Sorting/BubbleSort/MergeSort.md)
+
+  [QuickSort](https://github.com/essamheshmy/HeshmyArchive/blob/main/src/Algorithm/Sorting/BubbleSort/QuickSort.md)
+
+
+## **[DataStructuresImplementing](https://github.com/essamheshmy/HeshmyArchive/tree/main/src/DataStructuresImplementing)**
+[## **DataStructuresImplementing**]((https://github.com/essamheshmy/HeshmyArchive/tree/main/src/DataStructuresImplementing))
 
 - Linear Data Structures
 
-  [ LinkedList](https://www.notion.so/LinkedList-03fad88286834773b5232602e5ed761d?pvs=21)
+  [LinkedList](https://www.notion.so/LinkedList-03fad88286834773b5232602e5ed761d?pvs=21)
 
   [DynamicList](https://www.notion.so/DynamicList-436ee6e53c3f49799331013ffa78eab6?pvs=21)
 
