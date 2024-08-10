@@ -2,9 +2,11 @@
 
 [notion file](https://www.notion.so/HeshmyArchive-82242c005d7a45aba2ec00ecdc28f3ae?pvs=21)
 
-## A categorized tree of objects
 
-“اي كلام لحد ما اعرف اكتب وصف للمشروع”
+## HeshmyArchiv is a repository for keeping some technical explanations with some examples using Java or Kotlin. It is not a comprehensive explanation of these topics, but a quick reference for reference.These are some of the topics that have been added to: algorithms, data structures, how to use the most famous data structures.
+## There are plans to expand in the future to explain some software development practices, such as OOP, SOLID principles,Design Patterns. And to make some additions to the topics explained
+
+## A categorized tree of objects
 
 ## **Algorithm**
 
