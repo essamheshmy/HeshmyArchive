@@ -1,6 +1,6 @@
 package DataStructuresImplementing.list
 
-
+/*
 class DynamicList<T> {
     var data: Array<Any?>
     var size: Int = 0
@@ -30,4 +30,4 @@ class DynamicList<T> {
             data = data.copyOf(newCapacity)
         }
     }
-}
+}*/
